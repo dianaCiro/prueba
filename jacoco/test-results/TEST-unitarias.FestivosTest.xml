@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unitarias.FestivosTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-12-14T16:40:16" hostname="SEBASTIAN-EUSSE" time="0.007">
+  <properties/>
+  <testcase name="juevesSanto2016" classname="unitarias.FestivosTest" time="0.0"/>
+  <testcase name="EsfestivoTest" classname="unitarias.FestivosTest" time="0.0"/>
+  <testcase name="diaDeLaRaza2298" classname="unitarias.FestivosTest" time="0.001"/>
+  <testcase name="noEsFestivoEn2150" classname="unitarias.FestivosTest" time="0.001"/>
+  <testcase name="noEsFestivoEn2298" classname="unitarias.FestivosTest" time="0.001"/>
+  <testcase name="noEsfestivoTest" classname="unitarias.FestivosTest" time="0.0"/>
+  <testcase name="diaDeSanJose2150" classname="unitarias.FestivosTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

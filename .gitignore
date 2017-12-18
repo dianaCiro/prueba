@@ -1,0 +1,80 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/bin/
+src/main/java/dominio/AdministradorSolicitudes.java
+src/main/java/com/ceiba/vacaciones/VacacionConfiguracion.java
+src/main/java/com/ceiba/vacaciones/VacacionConfiguracion.java
+src/main/java/com/ceiba/vacaciones/VacacionesApplication.java
+src/main/java/com.ceiba.controller/Prueba.java
+src/main/java/dominio/AdministradorSolicitudes.java
+src/main/java/dominio/Empleado.java
+src/main/java/ldap/InformacionEmpleado.java
+src/main/java/ldap/LdapSpring.java
+
+#GIT IGNORE ANGULAR
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+VacacionesFront/dist
+VacacionesFront/tmp
+VacacionesFront/out-tsc
+
+# dependencies
+VacacionesFront/node_modules
+
+# IDEs and editors
+VacacionesFront/.idea
+VacacionesFront/.project
+VacacionesFront/.classpath
+VacacionesFront/.c9/
+*.launch
+VacacionesFront/.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+VacacionesFront/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+VacacionesFront/.sass-cache
+VacacionesFront/connect.lock
+VacacionesFront/coverage
+VacacionesFront/libpeerconnection.log
+VacacionesFront/npm-debug.log
+VacacionesFront/testem.log
+VacacionesFront/typings
+
+# e2e
+VacacionesFront/e2e/*.js
+VacacionesFront/e2e/*.map
+
+# System Files
+VacacionesFront/.DS_Store
+VacacionesFront/Thumbs.db

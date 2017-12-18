@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unitarias.CalculoDeDiasDeVacacionesTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2017-12-14T16:40:16" hostname="SEBASTIAN-EUSSE" time="0.023">
+  <properties/>
+  <testcase name="contarDiasHabilesTestConFechaDeRegresoMenor15Dias" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="noEeElAnioDEsolicitudTest" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTestConFechaFinalSabado" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTest" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="obtenerFestivosDelAnioDesolicitudTest" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTestParaEntrarPAsadoUnFestivo" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTestConFechaFinalViernes" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.002"/>
+  <testcase name="vacacioneConCambioDeAnio" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.007"/>
+  <testcase name="contarDiasHabilesTestConFechaFestivaPorMedio" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="anioDEsolicitudTest" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.0"/>
+  <testcase name="contarDiasHabilesTestConFechaDeRegresoMayor15Dias" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTestConFechaFinalDomingo" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <testcase name="contarDiasHabilesTestParaEntrarUnDIaFestivo" classname="unitarias.CalculoDeDiasDeVacacionesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

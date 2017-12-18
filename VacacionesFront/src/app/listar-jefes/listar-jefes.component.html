@@ -1,0 +1,13 @@
+
+<div class="form-group">
+  <label for="name" class="cols-sm-2 control-label">Jefe Inmediato</label>
+  <div class="cols-sm-7">
+    <div class="input-group">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-list" aria-hidden="true"></i></span>                  
+    <select class="form-control" name ="jefeInmediato"> 
+      <option *ngFor="let item of jefes">{{item.nombre}} {{item.apellido}}</option>
+    </select>
+</div>
+</div>
+</div>  
+

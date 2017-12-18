@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testdatabuilder.SolicitudVacacionesTestDatabBuilder" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-14T16:40:16" hostname="SEBASTIAN-EUSSE" time="0.009">
+  <properties/>
+  <testcase name="deEntidadADominioNull" classname="testdatabuilder.SolicitudVacacionesTestDatabBuilder" time="0.002"/>
+  <testcase name="deEntidadADominioTest" classname="testdatabuilder.SolicitudVacacionesTestDatabBuilder" time="0.001"/>
+  <testcase name="deDominioAEntidadTest" classname="testdatabuilder.SolicitudVacacionesTestDatabBuilder" time="0.005"/>
+  <testcase name="deEntidadADominioEnDias" classname="testdatabuilder.SolicitudVacacionesTestDatabBuilder" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

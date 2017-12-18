@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unitarias.FechaUtilTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2017-12-14T16:40:16" hostname="SEBASTIAN-EUSSE" time="0.006">
+  <properties/>
+  <testcase name="asignarTiempoCero" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDiasDeVacaciones" classname="unitarias.FechaUtilTest" time="0.001"/>
+  <testcase name="testCalcularDiasDisponiblesNoHay" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="dateToCalendarColombianZone" classname="unitarias.FechaUtilTest" time="0.001"/>
+  <testcase name="testCalcularDiasDisponiblesLuegoDePedirSiHay" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDe30DeJunioA31DeJulio" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDe28DeFebreroA31DeMarzo" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcular30DiasConMesDe31Dias" classname="unitarias.FechaUtilTest" time="0.001"/>
+  <testcase name="convertirFechaLdapACalendar" classname="unitarias.FechaUtilTest" time="0.001"/>
+  <testcase name="testCalcularDiasDisponiblesAntesDePedirMal" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDiasMismoMes" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDiasDisponiblesAntesDePedirSiHay" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcular30DiasDeFebreroAMarzo" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testMismopDia" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <testcase name="testCalcularDe31DeEneroA28DeFebrero" classname="unitarias.FechaUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
